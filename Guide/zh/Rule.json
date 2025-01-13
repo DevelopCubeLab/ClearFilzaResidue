@@ -1,0 +1,18 @@
+[
+    {
+        "path": "weixin://",
+        "description": "微信URL Scheme",
+        "isSelected": true
+    },
+    {
+        "path": "/var/mobile/Library/Saved Application State/com.tigisoftware.ADManager.savedState",
+        "description": "ADManager应用状态目录",
+        "isSelected": true
+    },
+    {
+        "path": "/var/mobile/Library/SplashBoard/Snapshots/com.tigisoftware.ADManager",
+        "description": "ADManager后台截图",
+        "isSelected": false
+    }
+]
+
