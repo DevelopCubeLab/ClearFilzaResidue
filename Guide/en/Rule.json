@@ -1,0 +1,18 @@
+[
+    {
+        "path": "googlemaps://",
+        "description": "Google Maps URL Scheme",
+        "isSelected": true
+    },
+    {
+        "path": "/var/mobile/Library/Saved Application State/com.tigisoftware.ADManager.savedState",
+        "description": "ADManager Application status directory",
+        "isSelected": true
+    },
+    {
+        "path": "/var/mobile/Library/SplashBoard/Snapshots/com.tigisoftware.ADManager",
+        "description": "ADManager App Switcher Snapshots",
+        "isSelected": false
+    }
+]
+

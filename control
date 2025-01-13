@@ -1,0 +1,8 @@
+Package: com.developlab.idisktidy.clearfilzaresidue
+Name: ClearFilzaResidue
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS Utils clear Filza Residue
+Maintainer: developlab
+Author: developlab
+Section: Utilities
