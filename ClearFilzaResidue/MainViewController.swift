@@ -223,6 +223,7 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
             
         } else if indexPath.section == 3 { // 关于
             cell.textLabel?.text = cellData[indexPath.section][indexPath.row]
+            cell.textLabel?.numberOfLines = 0
             if indexPath.row == 0 {
                 cell = UITableViewCell(style: .value1, reuseIdentifier: "cell")
                 cell.textLabel?.text = cellData[indexPath.section][indexPath.row]
