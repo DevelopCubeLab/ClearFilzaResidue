@@ -1,7 +1,9 @@
 # ClearFilzaResidue
-iOS Utils remove Filza residue files
+iOS Utils remove Filza residue files  
+**Note: This project will not release/store files in parts other than the App sandbox, and will NOT include ANY URL Scheme. You can use it with confidence and will not be detected by third-party app in App Stores. For specific issues, please [view](https://bsky.app/profile/opa334.bsky.social/post/3ll7zkia24c2s).**  
 
-帮助你删除Filza Unsandbox留在系统存储目录下的文件
+帮助你删除Filza Unsandbox留在系统存储目录下的文件  
+**注意：本项目不会在除本App沙盒以外的部分释放/存储文件，并且不会包含任何URL Scheme，您可以放心使用，而不会被第三方App Store的检测到，具体问题请[查看](https://bsky.app/profile/opa334.bsky.social/post/3ll7zkia24c2s)**  
 
 <img src="https://github.com/user-attachments/assets/f4b81b03-02b1-45cf-950d-6e28f4cbea5d" width="300px"/>
 <img src="https://github.com/user-attachments/assets/60a3007d-9787-4a22-a5b7-7c2f590d2849" width="300px"/>
